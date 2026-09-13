@@ -18,7 +18,7 @@ Query: 'Tell me about Keratin'
 
 
 DENSE (Semantic) Results — Top 5:
-
+======================================================================
  1. [Score: 0.6458] Keratin 8 is a major component of intermediate filaments in single-layered epithelia of the gastroin
  2. [Score: 0.5542] To investigate the presence or absence of Toll-like receptor (TLR)-2 and TLR-4 in synovial tissues c
  3. [Score: 0.5512] To determine bone mass using quantitative phalangeal bone ultrasound in young coeliac patients after
@@ -26,7 +26,7 @@ DENSE (Semantic) Results — Top 5:
  5. [Score: 0.5470] We previously reported significant variations in oxidation status and molecular length among sources
 
 DENSE (Semantic) Results — Top 5:
-
+======================================================================
  1. [Score: 16.8209] Keratin 8 is a major component of intermediate filaments in single-layered epithelia of the gastroin
  2. [Score: 11.9558] To investigate the effect of liver X receptor agonist T0901317 on transforming growth factor-β1 (TGF
  3. [Score: 5.0298] Melatonin, an indolamine produced and secreted predominately by the pineal gland, exhibits a variety
